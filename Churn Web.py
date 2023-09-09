@@ -2,7 +2,7 @@
 """
 Created on Tue Sep  5 23:21:20 2023
 
-@author: ASUS
+@author: Percy
 """
 
 import numpy as np
